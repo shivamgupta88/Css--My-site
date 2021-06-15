@@ -1,0 +1,90 @@
+body {
+  margin: 0px;
+  background-color: #b6c9f0;
+  font-family: "Noto Sans JP", sans-serif;
+}
+.top-container {
+  margin: 20px 0  100px 0;
+
+  display: block;
+}
+hr{
+  border-style: dashed double none;
+  width: 30%;
+  color: darkgray;
+  align-items: center;
+  border-width: .2rem;
+}
+
+h1 {
+  margin: 0px;
+  font-family: "Dancing Script", cursive;
+  font-size: 5.5em; 
+  text-align: center;
+ 
+}
+
+.intro {
+  margin: 0;
+  font-size: 2.5em;
+  text-align: center;
+}
+.span {
+  font-weight: bold;
+}
+.cloud1 {
+  position: relative;
+  left: 730px;
+}
+
+.cloud2 {
+  position: relative;
+  left: 470px;
+  bottom: 315px;
+}
+.mountain {
+  position: relative;
+  left: 180px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.middle-container {
+  display: block;
+  margin-top: 10rem;
+
+  
+}
+
+.images-left {
+  width: 200px;
+  display: block;
+  
+}
+.images-right{
+  width: 200px;
+  display: block;
+ 
+ 
+}
+.contacts {
+  margin-left: 100px;
+}
+
+.under {
+  text-decoration: underline;
+}
+
+.list-items-inline {
+  display: inline-block;
+}
+.projects {
+  margin-top: 5rem;
+}
+.dec-head{
+    font-weight: bolder;
+}
+.middle-container{
+  width: 50%;
+ 
+ margin: auto;
+}
